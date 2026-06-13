@@ -1,7 +1,2 @@
-sprint1.ipynb
-sprint2.ipynb
-sprint1.zip
-sprint2.zip
-sprint3.zip
-test.csv
-airline_satisfaction_model.joblib
+notebooks/
+src/__pycache__/
