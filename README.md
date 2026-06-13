@@ -1,10 +1,4 @@
-Perfect — a strong README can literally be the difference between “nice project” and “this person knows production ML”.
-
-I’ll give you a **clean, interview-ready README template** tailored exactly to your kind of project (ML classification pipeline + Streamlit app). You can copy-paste and tweak.
-
----
-
-# 📌 ML Classification Pipeline with Streamlit Deployment
+# 📌 Airline Passenger Satisfaction Prediction 
 
 ## 🚀 Project Overview
 
@@ -146,8 +140,3 @@ streamlit run app/app.py
 * Hyperparameter tuning automation
 
 ---
-
-## 👨‍💻 Author
-
-* Built by: *Shreyas Reddy Seelam*
-* Focus: Machine Learning Engineering & AI Systems
