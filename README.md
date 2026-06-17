@@ -1,5 +1,7 @@
 # 📌 Airline Passenger Satisfaction Prediction 
 
+Live App: [Click Here](https://airline-passenger-satisfaction-classifier-hungrychaos.streamlit.app/)
+
 ## 🚀 Project Overview
 
 This project is an end-to-end machine learning classification system built using a modular pipeline architecture. It covers data preprocessing, model training, evaluation, and deployment through a Streamlit web application for real-time predictions.
