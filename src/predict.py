@@ -1,10 +1,16 @@
 import joblib
 import pandas as pd
 import numpy as np
+from pathlib import Path
+import joblib
 
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_PATH = BASE_DIR.parent / "models" / "model.joblib"
+
+saved = joblib.load(MODEL_PATH)
 
 # ---------------- LOAD SAVED OBJECTS ----------------
-saved = joblib.load("../models/model.joblib")
+
 
 model = saved["model"]
 ct = saved["transformer"]
