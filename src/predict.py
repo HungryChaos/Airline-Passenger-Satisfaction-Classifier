@@ -4,7 +4,7 @@ import numpy as np
 
 
 # ---------------- LOAD SAVED OBJECTS ----------------
-saved = joblib.load("ml_sprints/models/model.joblib")
+saved = joblib.load("../models/model.joblib")
 
 model = saved["model"]
 ct = saved["transformer"]
